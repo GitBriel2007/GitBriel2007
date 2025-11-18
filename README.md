@@ -18,10 +18,15 @@
   <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </p>
 
-
-📫 Contato
-📧 gabriel.nsantos40@gmail.com
-💼 LinkedIn (se tiver – posso adicionar e formatar)
+<div>
+  <h5> 📫 Contato </h5>
+  <p>
+     📧 gabriel.nsantos40@gmail.com
+  </p>
+ <p>
+   💼 LinkedIn (se tiver – posso adicionar e formatar)
+ </p>
+</div>  
 
 ---
 
